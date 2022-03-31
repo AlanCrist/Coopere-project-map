@@ -9,7 +9,7 @@
 	<name>coopere-project-map</name>
 
 	<properties>
-		<org.springframework.version>3.1.4.RELEASE</org.springframework.version>
+		<org.springframework.version>5.3.18</org.springframework.version>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 		<props.compile.jdk.source>1.7</props.compile.jdk.source>
 		<props.compile.jdk.target>1.7</props.compile.jdk.target>
